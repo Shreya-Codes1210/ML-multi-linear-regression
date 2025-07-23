@@ -1,5 +1,5 @@
 
-# Linear Regression – Predicting Canada's Per Capita Income
+# Multi Linear Regression – Predicting Canada's Per Capita Income
 
 This project demonstrates how to use **Linear Regression** to predict Canada's per capita income based on historical data using Python and scikit-learn.
 
